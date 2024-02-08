@@ -5,7 +5,7 @@ RUNNING NEW NODE
 
 sudo apt install npm
 
-npm install -g yarn 
+npm install -g yarn FHUJ
 
 apt install cargo
 
